@@ -1,0 +1,8 @@
+albinsacademy\resources\ExtentReportNG.class
+albinsacademy\pageobjects\ConfirmationPage.class
+albinsacademy\pageobjects\LandingPage.class
+albinsacademy\pageobjects\ProductCatalogue.class
+albinsacademy\pageobjects\CartPage.class
+albinsacademy\pageobjects\OrderPage.class
+albinsacademy\AbstractComponents\AbstractComponent.class
+albinsacademy\pageobjects\CheckoutPage.class
